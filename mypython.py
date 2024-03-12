@@ -1,1 +1,1 @@
-my_sql_project
+print("Hey there!!!")
